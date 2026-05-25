@@ -120,6 +120,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1307200
 <a href="https://github.com/ayush13072005">
 GitHub
 </a>
+<a href="https://www.linkedin.com/in/ayush-rawat-b89905336/">
+LinkedIn
+</a>
 
 </p>
 
